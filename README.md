@@ -1,8 +1,10 @@
 # Cat API Prototype
-## Decription
-Service built with **FastAPI** for managing information about cats.  
-Implements basic CRUD operations with validation via **Pydantic**.  
+## Description
+
+Service built with **FastAPI** for managing information about cats.  Implements basic CRUD operations with validation via **Pydantic**.
+
 ---
+
 ## API Endpoints
 
 | Method | Endpoint     | Description       |
