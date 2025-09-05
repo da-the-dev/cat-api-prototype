@@ -39,7 +39,7 @@ def update_cat(cat_id: int, cat_for_update: Cat):
 def get_cat_by_id(cat_id: int):
     return cats.get(cat_id, {})
 
-@app.get('/cats/')
+@app.get('/cats')
 def get_cat_by_name(cat_name: Optional[str] = None):
     if cat_name is None:
         return cats
