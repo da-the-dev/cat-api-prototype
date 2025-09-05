@@ -19,7 +19,7 @@ Service built with **FastAPI** for managing information about cats.  Implements 
 1. Clone the repository
 ```
 git clone https://github.com/Kushon/cat-api-prototype.git
-cd project_cats
+cd cat-api-prototype
 ```
 2. Install the dependency
 ```
